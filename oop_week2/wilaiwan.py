@@ -1,0 +1,7 @@
+print("hello python")
+print("Wilaiwan Phondat")
+print("Ploy")
+print("18")
+print("14")
+print("67319010035")
+print("playgame")
